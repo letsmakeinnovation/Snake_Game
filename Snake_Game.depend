@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1674975910 source:g:\game\snake_game\main.cpp
+	"Snake_config.cpp"
+
+1674975095 g:\game\snake_game\snake.h
+
+1674975431 g:\game\snake_game\snake_con.h
+
+1674975429 g:\game\snake_game\snake_con.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<windows.h>
+	<stdlib.h>
+	<string.h>
+	"Snake.h"
+	"Snake_con.h"
+
+1674976802 g:\game\snake_game\snake_config.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<windows.h>
+	<stdlib.h>
+	<string.h>
+	"Snake.h"
+	"Snake_config.h"
+
+1674975710 g:\game\snake_game\snake_config.h
+
